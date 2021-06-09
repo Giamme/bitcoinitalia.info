@@ -1,0 +1,62 @@
+{
+    "faqs": [
+        {
+            "q": "Chi e' Satoshi Nakamoto?",
+            "a": "Fusce in porta erat, eget facilisis urna. Cras sodales turpis eget mi pretium bibendum. Praesent rutrum.",
+            "tags": [
+                "economia",
+                "decentralizazzione",
+                "fud"
+            ]
+        },
+        {
+            "q": "Quanto fa 2+2?",
+            "a": "Nunc suscipit laoreet purus in imperdiet. Fusce in porta erat, eget facilisis urna.",
+            "tags": [
+                "blockchain",
+                "fud"
+            ]
+        },
+        {
+            "q": "Come si fa la pasta al pesto?",
+            "a": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit laoreet purus in imperdiet. Fusce in porta erat, eget facilisis urna. Cras sodales turpis eget mi pretium bibendum. Praesent rutrum.",
+            "tags": [
+                "economia",
+                "decentralizazzione"
+            ]
+        },
+        {
+            "q": "Quanto fa 1+1?",
+            "a": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit laoreet purus in imperdiet. Fusce in porta erat, eget facilisis urna. Cras sodales turpis eget mi pretium bibendum. Praesent rutrum.",
+            "tags": [
+                "economia",
+                "sicurezza"
+            ]
+        },
+        {
+            "q": "Chi e' Satoshi Nakamoto?",
+            "a": "Fusce in porta erat, eget facilisis urna. Cras sodales turpis eget mi pretium bibendum. Praesent rutrum.",
+            "tags": [
+                "economia",
+                "decentralizazzione",
+                "fud"
+            ]
+        },
+        {
+            "q": "Quanto fa 2+2?",
+            "a": "Nunc suscipit laoreet purus in imperdiet. Fusce in porta erat, eget facilisis urna.",
+            "tags": [
+                "blockchain",
+                "fud"
+            ]
+        },
+        {
+            "q": "Come si fa la pasta al pesto?",
+            "a": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit laoreet purus in imperdiet. Fusce in porta erat, eget facilisis urna. Cras sodales turpis eget mi pretium bibendum. Praesent rutrum.",
+            "tags": [
+                "economia",
+                "decentralizazzione"
+            ]
+        }
+    ]
+}
