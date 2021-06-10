@@ -4,6 +4,7 @@
       :author="page.author"
       :createdAt="page.createdAt"
       :updatedAt="page.updatedAt"
+      :source="page.source"
     >
       <h1>{{ page.title }}</h1>
       <nuxt-content :document="page" />
