@@ -44,14 +44,7 @@
     <Nuxt />
     <div class="footer">
       <div class="content has-text-centered">
-        <b-icon
-          pack="fas"
-          icon="creative-commons"
-          type="is-primary"
-          size="is-default"
-        ></b-icon>
         <p>
-          <i class="fab fa-creative-commons"></i>
           <strong>BitcoinItalia.<i>info</i></strong> -
           <a @click="isCreditsModalActive = true">credits</a> -
           <a href="https://github.com/Giamme/bitcoinitalia.info" target="_blank"
