@@ -29,7 +29,7 @@ Tutti gli articoli del sito sono scritti in linguaggio "Markdown" con file che h
 Gli articoli devono contenere una testata che include tutti i metadati che lo riguardano (es. *titolo, autore ecc..*). La testata è scritta in *"yaml"*, un linguaggio di serializzazione dei dati leggibile dall'uomo.  
 La testata va inserita prima del testo dell'articolo, il contenuto della testata deve stare dentro tre trattini (*"---"*) che la aprono ed altri tre che la chiudono.
 Di seguito una testata da prendere come esempio: 
-```
+```yaml
 ---
 title: Titolo
 description: Descrizione
