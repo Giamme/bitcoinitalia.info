@@ -1,5 +1,6 @@
-[# BitcoinItalia.info](https://bitcoinitalia.info)
+# [BitcoinItalia.info](https://bitcoinitalia.info)
 
+## [Come contribuire al progetto](https://github.com/Giamme/bitcoinitalia.info/blob/main/CONTRIBUTING.md)
 ## Build Setup
 
 ```bash
