@@ -34,7 +34,7 @@
 
 <script>
 import Card from "~/components/Card";
-import Faqs from "../static/faqs.json";
+
 export default {
   components: {
     Card,
@@ -42,7 +42,7 @@ export default {
   transition: "slide-bottom",
   data() {
     return {
-      faqs: Faqs.faqs,
+      faqs: [],
       filter: [],
       tags: [
         "blockchain",
@@ -75,6 +75,10 @@ export default {
         this.filter = this.filter.filter((fil) => fil !== tag);
       }
     },
+  },
+  async fetch() {
+    this.faqs = await this.$content("faq").only(['a', 'q', 'tags']).fetch()
+
   },
 };
 </script>
