@@ -52,6 +52,7 @@ export default {
         "fud",
         "storia",
         "leggi",
+        "privacy"
       ],
     };
   },
