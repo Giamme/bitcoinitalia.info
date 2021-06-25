@@ -1,0 +1,5 @@
+---
+q: "Chi decide il prezzo di bitcoin?"
+a: "Innanzitutto essendo bitcoin una valuta è più corretto parlare di tasso di cambio piuttosto che di prezzo. Il tasso per convertire i propri euro in bitcoin o viceversa non è deciso centralmente da una qualche entità, viene bensì stabilito indipendentemente su ogni piattaforma di scambio (exchange) secondo delle pure dinamiche di domanda ed offerta tra acquirenti e venditori. Dunque è il libero mercato a stabilire quanto vale un bitcoin e tale valore cambia continuamente 24 ore su 24, 7 giorni su 7. Essendo l'offerta di bitcoin limitata, a forti variazioni della domanda corrispondono altrettanto forti variazioni del valore innescando fenomeni di repentina ascesa dovuti alla cosiddetta FOMO (Fear of Missing Out, paura di perdere l'occsaione) e drastico crollo (panic selling, vendita dettata dal panico); in termini più tecnici si dice che il valore di bitcoin è 'volatile'."
+tags: ["economia"]
+---
