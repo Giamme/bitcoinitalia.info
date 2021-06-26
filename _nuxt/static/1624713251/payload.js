@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a){return {data:[{}],fetch:{"0":{fudList:[{title:"Energy FUD",path:"\u002Ffud\u002Fenergy"}],isDonationModalActive:a,isCreditsModalActive:a}},mutations:void 0}}(false)));
